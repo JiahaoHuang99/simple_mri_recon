@@ -1,8 +1,6 @@
 .idea
 .DS_Store
-mri_recon
-results
 tmp
-sample
+#sample
 weight
-datasets
+#datasets
